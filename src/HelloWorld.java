@@ -8,6 +8,7 @@ public class HelloWorld {
         int tund, minut;
         tund = 13;
         minut = 23;
+        int paev =0;
         System.out.println("Kell on " + tund + "." + minut);
         System.out.println("Kui palju minuteid on möödas südaööst");
                System.out.println("Südaööst on möödas " + tund*60 + minut + " minutit!");
